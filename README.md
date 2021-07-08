@@ -5,6 +5,10 @@
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: pragun.ananda@gmail.com 
 
+<!-- ![Alt Text](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif) -->
+<img src="https://cdn.dribbble.com/users/616823/screenshots/3266597/simplerocketshipanimation.gif" alt="funny gif" width=500em height=500em >
+
+
 <!--
 **pragun-ananda/pragun-ananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
