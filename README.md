@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an app to intelligently prep for SWE interviews 
+- 🌱 I’m currently learning how to build scalable systems 
+- 😄 Pronouns: he/him/his
+- 📫 How to reach me: pragun.ananda@gmail.com 
+
 <!--
 **pragun-ananda/pragun-ananda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
