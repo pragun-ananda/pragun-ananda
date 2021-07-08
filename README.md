@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on an app to intelligently prep for SWE interviews 
-- 🌱 I’m currently learning how to build scalable systems 
+- 🌱 I’m currently learning how to design scalable systems
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: pragun.ananda@gmail.com 
 
