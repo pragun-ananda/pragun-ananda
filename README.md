@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Pragun 👋
 
 - 🔭 I’m currently working on an app to intelligently prep for SWE interviews 
 - 🌱 I’m currently learning how to design scalable systems
