@@ -2,7 +2,7 @@
 <h3 align="center">coder. builder. tester.</h3>
 
 - 🔭 I’m currently working on Bitwise: an app to intelligently prep for SWE interviews 
-- 🌱 I’m currently learning System Design and Async Programming
+- 🌱 I’m currently learning about System Design and Async Programming
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: pragun.ananda@gmail.com 
 
