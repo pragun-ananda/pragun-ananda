@@ -8,7 +8,7 @@
 
 <!-- ![Alt Text](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif) -->
 
-<img src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" alt="funny gif" width=500em height=500em style=right:0>
+<img src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" alt="funny gif" width=500em height=500em style=right:0px;>
 
 <!-- 
 <img src="https://i.pinimg.com/originals/21/5c/7f/215c7fdca6033092baa04b35c17466bd.gif" alt="funny gif" width=100% height=400em > -->
