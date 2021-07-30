@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏾, I'm Pragun.</h1>
 <h3 align="center">coder. builder. tester.</h3>
 
-<ul align="center">I’m currently working on Bitwise: an app to intelligently prep for SWE interviews </ul>
+<ol align="center">I’m currently working on Bitwise: an app to intelligently prep for SWE interviews </ol>
 
 
 - 🔭 I’m currently working on Bitwise: an app to intelligently prep for SWE interviews 
