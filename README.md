@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋🏾, I'm Pragun.</h1>
 <h3 align="center">design. code. test.</h3>
 
+
+
+<img align="right" src="https://cdn.dribbble.com/users/616823/screenshots/3266597/simplerocketshipanimation.gif" alt="funny gif" width=300em height=300em>
+
+<!-- https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif -->
+
 - 🔭 I’m currently working on [Bitwise](https://github.com/pragun-ananda/bitwise): an app to intelligently prep for SWE interviews 
 - 🌱 I’m currently learning about System Design and Async Programming
 - 😄 Pronouns: he/him/his
@@ -8,11 +14,10 @@
 
 <!-- ![Alt Text](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif) -->
 
-<img src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" alt="funny gif" width=500em height=500em style="float:right">
-
 <!-- 
 <img src="https://i.pinimg.com/originals/21/5c/7f/215c7fdca6033092baa04b35c17466bd.gif" alt="funny gif" width=100% height=400em > -->
 <!-- 
+
 <img src="https://cdn.dribbble.com/users/616823/screenshots/3266597/simplerocketshipanimation.gif" alt="funny gif" width=100% height=300em > -->
 
 <!--
