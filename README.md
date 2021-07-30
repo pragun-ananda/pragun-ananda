@@ -1,7 +1,7 @@
 ### Hi, I'm Pragun 👋
 
 - 🔭 I’m currently working on Bitwise: an app to intelligently prep for SWE interviews 
-- 🌱 I’m currently learning how to design scalable distributed systems
+- 🌱 I’m currently learning System Design and Async Programming
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: pragun.ananda@gmail.com 
 
