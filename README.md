@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Bitwise](https://github.com/pragun-ananda/bitwise): an app to intelligently prep for SWE interviews 
 - 🌱 I’m currently learning about System Design and Async Programming
-- 👨🏽‍🏫 The best way to learn is to teach. I've helped 1000+ students in my time TA-ing Algorithms and Data Structures @ UVA 
+- 👨🏽‍🏫 The best way to learn is to teach. I'm a proud Algorithms and Data Structures Head TA 
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: pragun.ananda@gmail.com 
 
