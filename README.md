@@ -11,7 +11,7 @@
 <!-- <img src="https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif" alt="funny gif" width=100% height=500em > -->
 
 
-<img src="https://i.pinimg.com/originals/21/5c/7f/215c7fdca6033092baa04b35c17466bd.gif" alt="funny gif" width=100% height=500em >
+<img src="https://i.pinimg.com/originals/21/5c/7f/215c7fdca6033092baa04b35c17466bd.gif" alt="funny gif" width=500em height=500em >
 
 <!-- <img src="https://cdn.dribbble.com/users/616823/screenshots/3266597/simplerocketshipanimation.gif" alt="funny gif" width=100% height=300em > -->
 
