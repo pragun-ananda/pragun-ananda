@@ -1,5 +1,5 @@
 ### Hi, I'm Pragun 👋
-
+<br>
 - 🔭 I’m currently working on Bitwise: an app to intelligently prep for SWE interviews 
 - 🌱 I’m currently learning System Design and Async Programming
 - 😄 Pronouns: he/him/his
