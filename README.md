@@ -7,7 +7,7 @@
 
 <!-- https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif -->
 
-- 🔭 I’m currently working on [Bitwise](https://github.com/pragun-ananda/bitwise): an app to intelligently prep for SWE interviews 
+- 🔭 I’m currently working on [Bitwise](https://github.com/pragun-ananda/bitwise): an app to intelligently prep for SWE interviews
 - 🌱 I’m currently learning about System Design and Async Programming
 - 👨🏽‍🏫 Proud Head TA of [Algorithms](https://github.com/uva-cs/cs4102-s21) and ex-TA of [Data Structures](https://github.com/uva-cs/pdr) @ UVA
 - 😄 Pronouns: he/him/his
