@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Pragun.</h1>
-<h3 align="center">I code, test, and repeat. ☄️</h3> <br>
+<h3 align="center">I like to solve hard problems. ☄️</h3> <br>
 
 
 
