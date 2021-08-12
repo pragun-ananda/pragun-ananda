@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏾, I'm Pragun.</h1>
+<h1 align="center">Hi 👋🏾, I'm Pragun</h1>
 <h3 align="center">problem-solver, builder, breaker ☄️</h3> <br>
 
 
