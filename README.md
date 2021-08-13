@@ -7,7 +7,7 @@
 
 <!-- https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif -->
 
-- 🔭 Current projects: [Bitwise](https://github.com/pragun-ananda/bitwise): an app to intelligently prep for SWE interviews 
+- 🔭 Current projects: [Bitwise](https://github.com/pragun-ananda/bitwise): a SWE interview prep tool personalized for each user  
 - 🌱 Learning about System Design and Async Programming
 - 👨🏽‍🏫 Head TA of [Algorithms](https://github.com/uva-cs/cs4102-s21) and ex-TA of [Data Structures](https://github.com/uva-cs/pdr) @ UVA
 - 👀 Learn more on [LinkedIn](https://www.linkedin.com/in/pragun-ananda/)
