@@ -10,7 +10,7 @@
 - 🔭 Current projects: [Bitwise](https://github.com/pragun-ananda/bitwise): a SWE interview prep tool personalized for each user  
 - 🌱 Currently learning how to make systems faster and more resource-efficient, especially at large scale
 - 👨🏽‍🏫 Head TA of [Algorithms](https://github.com/uva-cs/cs4102-s21) and ex-TA of [Data Structures](https://github.com/uva-cs/pdr) @ UVA
-- 👀 Learn more on [LinkedIn](https://www.linkedin.com/in/pragun-ananda/)
+- 👀 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/pragun-ananda/)
 - 😄 Pronouns: he/him/his
 - 📫 How to reach me: pragun.ananda@gmail.com 
 
