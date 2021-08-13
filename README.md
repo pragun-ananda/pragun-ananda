@@ -3,7 +3,7 @@
 
 
 
-<img align="right" src="https://cdn.dribbble.com/users/616823/screenshots/3266597/simplerocketshipanimation.gif" alt="funny gif" width=250em height=250em>
+<img align="right" src="https://cdn.dribbble.com/users/616823/screenshots/3266597/simplerocketshipanimation.gif" alt="funny gif" width=200em height=200em>
 
 <!-- https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif -->
 
