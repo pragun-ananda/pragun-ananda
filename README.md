@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏾, I'm Pragun</h1>
-<h3 align="center">problem-solver, builder, breaker ☄️</h3>
+<h3 align="center">I build to learn ☄️</h3>
 
 
 
