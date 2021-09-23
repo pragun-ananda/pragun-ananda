@@ -11,7 +11,7 @@
 - 👨🏽‍🏫 Head TA of [Algorithms](https://github.com/uva-cs/cs4102-s21) and ex-TA of [Data Structures](https://github.com/uva-cs/pdr) @ UVA
 - 👀 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/pragun-ananda/)
 - 😄 Pronouns: he/him/his
-- 📫 How to reach me: pragun.ananda@gmail.com 
+- 📫 How to reach me: pba4bd@virginia.edu
 
 <!-- ![Alt Text](https://media.giphy.com/media/26BGIqWh2R1fi6JDa/giphy.gif) -->
 
