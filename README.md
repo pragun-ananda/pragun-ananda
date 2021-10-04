@@ -7,7 +7,7 @@
 
 <!-- https://i.pinimg.com/originals/a7/12/3a/a7123a124ba35c74c421e1678e2bb677.gif -->
 
-- 🔭 Current projects: [Bitwise](https://github.com/pragun-ananda/bitwise): a SWE interview prep progress tracker and [Sice](https://github.com/pragun-ananda/sice): a free stuff finder for college students 
+- 🔭 Current projects: [Sice](https://github.com/pragun-ananda/sice): a free stuff finder for college students and [Guardian](https://github.com/pragun-ananda/guardian): a real-time college safety app 
 - 👨🏽‍🏫 Head TA of [Algorithms](https://github.com/uva-cs/cs4102-s21) and ex-TA of [Data Structures](https://github.com/uva-cs/pdr) @ UVA
 - 👀 Learn more about my experiences on [LinkedIn](https://www.linkedin.com/in/pragun-ananda/)
 - 😄 Pronouns: he/him/his
